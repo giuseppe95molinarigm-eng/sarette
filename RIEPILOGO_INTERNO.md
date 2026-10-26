@@ -1,8 +1,8 @@
 # Campione di editing per Sarette: riepilogo interno (Elite Publishing)
 
-## File consegnabili alla cliente
-- `Sarette_Sample_Edit_TRACKED_CHANGES.docx`: revisioni Word reali (w:ins/w:del, autore "Elite Publishing") e 10 commenti a margine in inglese.
-- `Sarette_Sample_Edit_CLEAN.docx`: testo pulito con tutte le modifiche accettate, seguito dalla sezione "Author Queries" con le stesse 10 note, per chi non usa Word.
+## File da mandare alla cliente (unico)
+- `Sarette_Editing_Sample.docx`: revisioni Word reali (autore "Elite Publishing") e 10 commenti a margine in inglese. La cliente vede il testo pulito con Revisione > Nessun markup (Review > No Markup).
+- Questo riepilogo è solo interno: non va inviato.
 
 ## Passaggio selezionato
 Unico blocco continuo da **"The Mental Realm (The Hamster Wheel)"** fino alla fine della pratica **"Reconnecting Upper and Lower Body Experience"**, quindi Mental, Emotional, Physical ed Energetic Realm più l'esercizio completo con i checkpoint finali.
